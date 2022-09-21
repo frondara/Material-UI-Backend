@@ -20,7 +20,7 @@ public class Product {
     private String category;
     private String freshness;
     private String date;
-    private Long price;
+    private double price;
     private String comment;
     
 }
